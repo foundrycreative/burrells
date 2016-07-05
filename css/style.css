@@ -1358,7 +1358,7 @@ font-size: 12px;
 }
 
 .text-link-email:hover {  
-  color: #00A6AD; 
+ opacity: 1;
 }
 
 /*  HOME PAGE */
