@@ -131,15 +131,15 @@ $(document).scroll(function(){$(this).scrollTop()>100?($(".nav-tall").addClass("
 				<form action="https://formspree.io/mariam@foundrycreative.co.nz" method="POST"> <!-- left column of form -->
 					<div class="row-half">
 						<p class="blue-text margin-bottom-30">How can we contact you?</p>
-						<input type="text" name="name" class="input input-name" placeholder="Full name">
-						<input type="email" name="_replyto" class="input input-email" placeholder="Email address">
-						<input type="text" name="phone" class="input input-phone" placeholder="Phone number">
+						<input type="text" name="name" class="input input-name" placeholder="Full name" required>
+						<input type="email" name="_replyto" class="input input-email" placeholder="Email address" required>
+						<input type="text" name="phone" class="input input-phone" placeholder="Phone number" required>
 					</div>
 						
 					<div class="row-half"> <!-- right column of form -->
 						<p class="blue-text margin-bottom-30 margin-top-10-sm">What can we help you with?</p>
 						<input type="text" name="_subject" class="input input-subject" placeholder="Subject">
-						<textarea name="body" class="input text-area" placeholder="Your message"></textarea>
+						<textarea name="body" class="input text-area" placeholder="Your message" required></textarea>
 						<input type="text" name="_gotcha" style="display:none" />
 						<input type="submit" name="send" value="Send" class="submit button-3" placeholder="Send Message">
 					</div>
