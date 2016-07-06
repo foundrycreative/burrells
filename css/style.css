@@ -809,6 +809,12 @@ display: none;
   float: left;
 }
 
+@media (max-width:424px) {
+  .slider-text {
+  font-size: 38px;
+}
+}
+
 
 /*  TRANSITIONS  */
 
