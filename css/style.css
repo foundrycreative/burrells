@@ -1550,12 +1550,12 @@ min-height: 640px;
 
 /*  REPAIRS  */
 
-.bg-header-repairs { background-image: url(bgs/header-repairs-1.jpg); }
+.bg-header-repairs { background-image: url(bgs/header-repairs-4.jpg); }
 
 
 /*  ABOUT PAGE  */
 
-.bg-header-about { background-image: url(bgs/header-about.jpg); }
+.bg-header-about { background-image: url(bgs/header-about-1.jpg); }
 .bg-meet-stuart { background-image: url(bgs/meet-stuart.jpg); }
 
 @media (min-width: 769px) and (max-width: 1200px) {
@@ -1667,7 +1667,7 @@ min-height: 400px;
 
 .bg-header-guarantee { background-image: url(bgs/header-guarantee.jpg); }
 .bg-guarantee-machines { background-image: url(bgs/guarantee-machines.jpg); }
-.bg-quote-pride { background-image: url(bgs/quote-pride.jpg); }
+.bg-quote-pride { background-image: url(bgs/quote-pride-3.jpg); }
 
 
 /* SERVICES CARDS ON SERVICES PAGES */
