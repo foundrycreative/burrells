@@ -2291,27 +2291,27 @@ padding-right: 20px;
 }
 
 .client-logo {
-  height: 100px;
+  height: 110px;
   margin: 0 52px;
 }
 
 @media (max-width: 540px) {
 .client-logo {
-height: 60px;
+height: 66px;
 margin: 16px 42px;
 }
 }
 
 @media (min-width: 541px) and (max-width: 768px) {
 .client-logo {
-height: 50px;
+height: 54px;
 margin: 0 16px;
 }
 }
 
 @media (min-width: 769px) and (max-width: 1200px) {
 .client-logo {
-height: 60px;
+height: 66px;
 margin: 0 34px;
 }
 }
