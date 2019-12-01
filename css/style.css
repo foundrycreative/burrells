@@ -1639,11 +1639,13 @@ min-height: 640px;
 .bg-laundro-marton { background-image: url(bgs/laundro-marton.jpg); }
 .bg-laundro-summerhill { background-image: url(bgs/laundro-summerhill.jpg); }
 .bg-laundro-pioneer { background-image: url(bgs/laundro-pioneer.jpg); }
+.bg-laundro-foxton { background-image: url(bgs/laundro-foxton.jpg); }
 .bg-header-laundro { background-image: url(bgs/header-laundromats-04.jpg); }
 .bg-laundro-washers { background-image: url(bgs/laundro-washers.jpg); }
 .bg-map-marton { background-image: url(bgs/map-marton.jpg); }
 .bg-map-summerhill { background-image: url(bgs/map-summerhill.jpg); }
 .bg-map-pioneer { background-image: url(bgs/map-pioneer.jpg); }
+.bg-map-foxton { background-image: url(bgs/map-foxton.jpg); }
 
 
 @media (min-width: 769px) and (max-width: 1200px) {
@@ -2066,7 +2068,7 @@ padding-top: 18px;
 
 .bg-map{
   width: 100%;
-  height: 500px;
+                                height: 1000px;
   background-color: #deeff7;
 }
 
