@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /img/
+Disallow: /js/
+Disallow: /css/
+Disallow: /contact-copy/
+
+Sitemap: http://burrells.nz/sitemap.xml
