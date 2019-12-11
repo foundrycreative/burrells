@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^www\.burrells\.nz$
+RewriteRule ^/?$ "http\:\/\/burrells\.nz\/" [R=301,L]
